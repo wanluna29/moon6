@@ -25,3 +25,4 @@ jobs:
           git pull --rebase
           git commit --allow-empty -m "Million is not rich, but Million is just starting"
           git push
+git
